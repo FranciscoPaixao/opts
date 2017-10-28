@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/jpillora/opts"
+	"github.com/FranciscoPaixao/opts"
 )
 
 type Config struct {
